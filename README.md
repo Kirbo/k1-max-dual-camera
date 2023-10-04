@@ -16,8 +16,8 @@
 ## Accessing the cameras
 
 The URL for the cameras:
-- Original K1 Max camera stream: [http://ip.to.your.printer:8080/?action=stream_0](http://ip.to.your.printer:8080/?action=stream_0)
-- Original K1 Max camera snapshot: [http://ip.to.your.printer:8080/?action=snapshot_0](http://ip.to.your.printer:8080/?action=snapshot_0)
+- Original K1 Max camera stream: [http://ip.to.your.printer:8080/?action=stream](http://ip.to.your.printer:8080/?action=stream)
+- Original K1 Max camera snapshot: [http://ip.to.your.printer:8080/?action=snapshot](http://ip.to.your.printer:8080/?action=snapshot)
 - Additional camera stream: [http://ip.to.your.printer:8080/?action=stream_1](http://ip.to.your.printer:8080/?action=stream_1)
 - Additional camera snapshot: [http://ip.to.your.printer:8080/?action=snapshot_1](http://ip.to.your.printer:8080/?action=snapshot_1)
 
