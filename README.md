@@ -23,5 +23,12 @@ The URL for the cameras:
 
 ## Screenshots
 
+### Mainsail
 ![Mainsail 1](./screenshot/Mainsail_1.png)
 ![Mainsail 2](./screenshot/Mainsail_2.png)
+![Mainsail 3](./screenshot/Mainsail_3.png)
+
+### Fluidd
+![Fluidd 1](./screenshot/Fluidd_1.png)
+![Fluidd 2](./screenshot/Fluidd_2.png)
+![Fluidd 3](./screenshot/Fluidd_3.png)
