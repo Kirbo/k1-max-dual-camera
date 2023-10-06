@@ -13,6 +13,12 @@
 (cd ~/k1-max-dual-camera && git pull && ./install.sh)
 ```
 
+## Uninstall
+
+```sh
+(cd ~/k1-max-dual-camera && git pull && ./uninstall.sh)
+```
+
 ## Accessing the cameras
 
 The URL for the cameras:

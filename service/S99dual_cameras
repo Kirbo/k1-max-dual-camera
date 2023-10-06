@@ -28,10 +28,7 @@ restart) log_daemon_msg "Restarting" $NAME
         $0 stop
         $0 start
         ;;
-reload|force-reload)
-        echo "Reloading configuration not supported"
-        ;;
-*)      echo "Usage: /etc/init.d/dual_cameras {start|stop|status|restart|reload|force-reload}"
+*)      echo "Usage: /etc/init.d/dual_cameras {start|stop|restart}"
         exit 2
         ;;
 esac
