@@ -1,7 +1,8 @@
 # Discontinued!
 Please use this instead: https://github.com/trevos3d/K1-USB-Cam
 
-I've personally shifted on using this instead:
+I've personally shifted on using Raspberry Pi 4 + Logitech C922 webcam, instead of using the K1 Max front USB for webcams, as I noticed it couldn't perform well enough, at least with high resolution or fps.
+In case you're interested, please check following Raspi repositories (either GitLab or GitHub):
 - https://gitlab.com/kirbo/raspberry-pi-mpjg-streamer
 - https://github.com/Kirbo/raspberry-pi-mpjg-streamer
 
