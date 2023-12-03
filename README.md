@@ -1,6 +1,11 @@
 # Discontinued!
 Please use this instead: https://github.com/trevos3d/K1-USB-Cam
 
+I've personally shifted on using this instead:
+- https://gitlab.com/kirbo/raspberry-pi-mpjg-streamer
+- https://github.com/Kirbo/raspberry-pi-mpjg-streamer
+
+
 # Creality K1 Max - Dual webcams
 
 ## Install
