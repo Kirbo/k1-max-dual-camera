@@ -1,8 +1,7 @@
-# Creality K1 Max - Dual webcams
-
-Discontinued!
+# Discontinued!
 Please use this instead: https://github.com/trevos3d/K1-USB-Cam
 
+# Creality K1 Max - Dual webcams
 
 ## Install
 
