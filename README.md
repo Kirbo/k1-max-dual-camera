@@ -46,3 +46,7 @@ The URL for the cameras:
 ![Fluidd 1](./screenshot/Fluidd_1.png)
 ![Fluidd 2](./screenshot/Fluidd_2.png)
 ![Fluidd 3](./screenshot/Fluidd_3.png)
+
+## Thanks
+
+This repository was heavily inspired by this Reddit thread: https://www.reddit.com/r/crealityk1/comments/15e1ks9/comment/k3lhw7m/?context=3
